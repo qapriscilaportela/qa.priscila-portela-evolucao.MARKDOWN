@@ -1,0 +1,31 @@
+O que é teste?
+
+É um conjunto de procedimentos e verificações para avaliar o funcionamento correto de algo.
+
+No campo de 'Software', a principal finalidade dos testes é encontrar erros ou defeitos no sistema, para a correção, antes de ser liberado ao usuário final, garantindo a máxima experiência e qualidade na usabilidade do usuário. É importante destacar que os testes, não são feitos apenas a nível de desempenho, são feitos em todas as frentes possíveis, desde a estrutura interna (código) até a usabilidade.
+
+7 Princípios do teste de Software; 1 - O teste mostra a presença de defeitos Ou seja, o nosso papel é mostrar os defeitos dos softwares, estamos lá para investigar e identificar todos os defeitos e falhas, entretanto, não é possível encontrar 100% deles. Mas, temos que encontrar o máximo possível.
+
+2 - O teste exaustivo não é possível; Deve focar nas prioridades e riscos, pois um teste exaustivo traz bastante custo ao projeto. Devo ter em mente que é impossível testar tudo, a menos que seja um 'software' limitado e bem pequeno.
+
+3 - Teste antecipado; O teste deve ser iniciado o quanto antes, pois quando mais cedo a falha é corrigida, mais barato fica a correção do mesmo.
+
+4- Agrupamento de defeitos; No princípio de Pareto, observamos a métrica de 80% em 20%, ou seja, 80% dos defeitos concentram-se em 20% dos módulos.
+
+5- Paradoxo dos pesticidas; Usar os mesmos testes repetidamente não são aconselháveis, pois acabam por não encontrar mais erros, e devem ser revisados ​​periodicamente para garantir maior cobertura de pontos no sistema.
+
+6- Teste depende do contexto; Cada teste deve ser elaborado com as especificações da área de atuação, seguindo também as regras de negócio, um teste desenvolvido para banco é diferente de um desenvolvido para 'e-commerce'.
+
+7- A ilusão da ausência de erros Não é porque o testador não encontrou mais erros que o sistema esteja 100% pronto, além disso, não adianta estar livre de erros, se não é correspondente com todos os requisitos do cliente.
+
+-- Erro, defeito e falha
+
+Defeito; Os defeitos são falhas no desenvolvimento do sistema ou podem estar nos documentos relacionados, qualquer desvio do especificado no documento é considerado um defeito. Os defeitos são gerados a partir do engano de ação humana. Ex: Preenchimento de um código errado, troca de um sinal matemático, digitar UN ou substituído de UM...
+
+Erro; É o resultado da devolutiva do defeito, ou seja, erro é quando existe algum defeito no desenvolvimento do sistema. Sendo que, para ser detectado tem que ter uma entrada e saída de informação, caso especificamente naquele campo não tenha tido alguma entrada, o defeito pode nunca ser detectado e por consequência o erro passar despercebido. EX: A soma de 6 + 3 deveria ser 9, mas o sistema devolve 10.
+
+Falha; É a consequência do erro, a falha é geralmente identificada pelo usuário final. A falha é quando esse erro se manifesta, deixa o 'software' no estado inconsistente. Ex: Quando aparece a tela azul do Windows, quando o sistema trava...
+
+Referência de artigos e sítios web;
+
+https://www.youtube.com/watch?v=Ju1GwrWTXbg https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280 https://medium. com/@romuluxs/qual-a-diferen%C3%A7a-entre-engano-defeito-erro-e-falha-ca4bd0a07c0b https://www.linkedin.com/pulse/qual-o-significado-de-defeito- bug-ou-erro-e-falhas-em-luis-gabriel/?originalSubdomain=pt https://pt.myservername.com/7-types-software-errors-that-every-tester-should-know https:/ /codejourney.com.br/teste-antecipado/ https://acervolima.com/engenharia-de-software-sete-principios-de-teste-de-software/ http://qualidade-de-software.blogspot.com /2013/08/7-principios-fundamentais-do-teste-de.html https://medium.com/@marcio_rc/os-sete-princ%C3%ADpios-do-teste-de954ae080d0 https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280 file:///C:/Users/Priscila/Downloads/290-Texto%20do%20Artigo -624-1-10-20211216.pdf https://repositorio.ufmg.br/bitstream/1843/BUOS-94NM37/1/antonio_arcanjo.pdf
